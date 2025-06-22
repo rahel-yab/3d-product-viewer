@@ -39,7 +39,7 @@ A modern, interactive 3D product viewer built with Three.js that allows users to
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/rahel-yab/3d-product-viewer.git
    cd 3d-product-viewer
    ```
 
