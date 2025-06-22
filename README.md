@@ -21,14 +21,11 @@ A modern, interactive 3D product viewer built with Three.js that allows users to
 - **Advanced Lighting**: Multiple light sources with shadows and dynamic effects
 - **Material Feedback**: Color changes and scale animations on interaction
 - **Smooth Animations**: Floating chair animation and background elements
-- **Professional UI**: Modern interface with loading screens and information panels
 
 ### Technical Features
 
 - **Modular Architecture**: Well-organized code structure with separate modules
 - **Performance Optimized**: Efficient rendering with proper shadow mapping
-- **Error Handling**: Comprehensive error handling and user feedback
-- **Cross-browser Compatible**: Works on all modern browsers
 
 ## 🚀 Quick Start
 
