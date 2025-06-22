@@ -2,10 +2,6 @@
 
 A modern, interactive 3D product viewer built with Three.js that allows users to explore a detailed chair model with real-time interactions, camera animations, and part information display.
 
-![3D Product Viewer](https://img.shields.io/badge/Three.js-0.160.0-000000?style=for-the-badge&logo=three.js)
-![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?style=for-the-badge&logo=vite)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
-
 ## 🎯 Features
 
 ### Core Functionality
