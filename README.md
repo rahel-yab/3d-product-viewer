@@ -1,3 +1,7 @@
+Name: Rahel Yabebal
+ID: UGR/6200/15
+Section-1
+
 # Interactive 3D Product Viewer
 
 A modern, interactive 3D product viewer built with Three.js that allows users to explore a detailed chair model with real-time interactions, camera animations, and part information display.
